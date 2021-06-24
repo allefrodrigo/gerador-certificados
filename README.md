@@ -2,25 +2,23 @@
 Aplicação feita em vue.js para criação automática de certificados para eventos online/presenciais
 
 <img src="https://i.ibb.co/PD8mqDv/bg-5.png">
+
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação e hot-reloads para desenvolvimento
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compilação e mimificação para produção
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Lints 
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
